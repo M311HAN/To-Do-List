@@ -42,9 +42,13 @@ After cloning the repository:
 ## Technologies Used
 
 • PHP
+
 • MySQL
+
 • HTML
+
 • CSS
+
 • JavaScript (for future enhancements)
 
 ## Credits
