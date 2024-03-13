@@ -12,10 +12,10 @@ This application is designed to help users manage their daily tasks efficiently.
 ## Installation
 Clone the project repository by running the following command:
 ```bash
-git clone https://github.com/M311HAN/To-do-List-.git
+git clone https://github.com/M311HAN/To-do-List.git
 
 # Navigate into the cloned directory
-cd PoisePMS
+cd To-Do-List
 
 ```
 ## Usage
