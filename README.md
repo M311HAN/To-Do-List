@@ -1,7 +1,17 @@
+## Empty To Do list 
+![The Todo list](todo.png)
+
+## Added To Do tasks
+![The search page](todotasks.png)
+
+## Show completed tasks
+![The search page](completedtodo.png)
+
+
 # To Do List Application
 
 ## Description
-This application is designed to help users manage their daily tasks efficiently. It allows users to add, mark as completed, and delete tasks from their to-do list. The application is user-friendly, with a clean and simple interface that ensures a smooth user experience.
+This application is designed to help users manage their daily tasks efficiently. It allows users to add, mark as completed, and delete tasks from their to-do list. The application is user-friendly, with a clean and simple interface that ensures a smooth user experience. I added styling to the buttons, when the button 'Done' is hovered it will turn green and once clicked it will draw a line over the task and place it into 'show completed'. When the button 'Delete' is hovered over, it will display red and delete the to do task once it has been completed. The user can toggle between 'show completed' and 'hide completed' to see what tasks has been completed or tasks that still needs to be done.
 
 ## Table of Contents
 - [Installation](#installation)
