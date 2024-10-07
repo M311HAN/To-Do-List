@@ -37,7 +37,6 @@
             margin-right: auto;
           }
             
-        }
         h2 {
             color: #444;
         }
